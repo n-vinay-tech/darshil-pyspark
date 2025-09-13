@@ -22,6 +22,7 @@ ENV/
 *.out
 *.DS_Store
 Thumbs.db
+*.metastore_db/
 
 # ---- IDE / VS Code ----
 .vscode/
