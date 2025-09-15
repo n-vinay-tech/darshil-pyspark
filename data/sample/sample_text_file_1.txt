@@ -1,0 +1,2 @@
+Apache Spark is great for big data processing.
+RDDs are the low-level API in Spark.
