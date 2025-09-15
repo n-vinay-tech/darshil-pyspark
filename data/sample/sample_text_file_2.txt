@@ -1,0 +1,2 @@
+DataFrames provide a higher-level abstraction.
+This is a sample text file for SparkContext.textFile.
